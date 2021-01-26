@@ -1,0 +1,10 @@
+{
+  "name": "innov-camp",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
